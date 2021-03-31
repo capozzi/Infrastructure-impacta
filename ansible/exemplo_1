@@ -1,9 +1,0 @@
-# Infrastructure-impacta
-[defaults]
-become = True
-become_method = su
-become_user = root
-ask_pass = False
-host_key_checking = False
-inventory = ./inventory.yaml
-deprecation_warnings = False
